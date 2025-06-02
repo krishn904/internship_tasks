@@ -7,3 +7,6 @@ found the mean ,median , mode and standard deviation.
 
 ###libraries used :-
 pandas and numpy.
+
+
+you can see the interactive dashboard at the dashboard readme file above
